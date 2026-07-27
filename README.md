@@ -14,6 +14,4 @@
 
 Hope you liked this project, don't forget to give it a star ⭐.
 
-<a href="https://starchart.cc/gautamkrishnar/blog-post-workflow">
-    <img alt="chart" src="https://starchart.cc/gautamkrishnar/blog-post-workflow.svg" width="600px">
-</a>
+
